@@ -81,3 +81,4 @@ def getDetails():
     data=fetch(bookingId)
     print(type(data))
 
+

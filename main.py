@@ -21,3 +21,4 @@ while flag:
         getDetails()
     else:
         print(">>>Invalid Option!!! Please Try Again!!!")
+

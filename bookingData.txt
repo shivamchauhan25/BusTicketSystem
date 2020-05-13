@@ -1,1 +1,1 @@
-['CTS675513', ['r', '4', {'start': 'Chandigarh', 'end': 'Delhi', 'fare': 600, 'time': '03:00 PM', 'key': 'b002'}, 2400, 4]]
+['CTS795655', ['shivam', '123', {'start': 'Chandigarh', 'end': 'Delhi', 'fare': 600, 'time': '03:00 PM', 'key': 'b002'}, 1200, 2]]
